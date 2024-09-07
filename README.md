@@ -1,0 +1,1 @@
+Developing an application using Streamlit and Gemini to facilitate collaborative discussion on uploaded PDF documents. Users can upload PDFs, ask questions related to the content, and receive answers generated through Gemini's capabilities. This platform enables interactive and efficient engagement with PDF materials, enhancing collaboration and knowledge sharing.
